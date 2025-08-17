@@ -33,4 +33,4 @@ Una vez activado, lo podrás visitar en:
 Si deseas probarlo en tu computadora:
 1. Descarga este repositorio en formato ZIP o clónalo:
    ```bash
-   git clone https://contrerasangelux-source.github.com//Pequenospensadores.git
+   git clone https://github.com/contrerasangelux-source/Pequenospensadores.git
